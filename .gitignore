@@ -1,0 +1,9 @@
+.build/
+*.exe
+*.out
+*.o
+*.bin
+*bukets_report.txt
+.vscode/
+.DS_Store
+Thumbs.db
